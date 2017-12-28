@@ -1,8 +1,6 @@
 # Android_studying
 
-## 1. learning list
-
-## 2. Self Studying
+## Self Studying
 
 1. [Fragment1](https://github.com/youjisang/Android_Review_01.git)
 
