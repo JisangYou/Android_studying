@@ -27,3 +27,7 @@
 12. [Spinner](https://github.com/youjisang/Android_Review_12.git)
 
 13. [DB](https://github.com/youjisang/Android_Review_13.git)
+
+14. [Memo&ListView&File_Review](https://github.com/youjisang/ListView_Practice.git)
+
+15. [Memo&ListView&DB_Review](https://github.com/youjisang/ListView_Practice2.git)
