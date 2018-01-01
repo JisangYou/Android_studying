@@ -32,4 +32,6 @@
 
 15. [Memo&ListView&DB_Review](https://github.com/youjisang/ListView_Practice2.git)
 
-16.
+16.[fragment practice1](https://github.com/youjisang/FragmentBasic1.git)
+
+17.[fragment practice2](https://github.com/youjisang/FragmentBasic2.git)
