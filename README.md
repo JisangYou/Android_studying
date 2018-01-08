@@ -28,8 +28,8 @@
 
 13. [DB](https://github.com/youjisang/Android_Review_13.git)
 
-14. [Memo&ListView&File_Review](https://github.com/youjisang/ListView_Practice.git)
-
+14. [Memo&ListView&File_Review](https://github.com/youjisang/ListView_Practice.git) - ADSMemoWithFile과 중복 추후 수정 필요(레포지터리자체수정
+필요)
 15. [Memo&ListView&DB_Review](https://github.com/youjisang/ListView_Practice2.git)
 
 16. [fragment practice1](https://github.com/youjisang/FragmentBasic1.git)
